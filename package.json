@@ -1,0 +1,19 @@
+{
+  "name": "docker-automated-build",
+  "version": "1.0.0",
+  "description": "Set up automated build docker with sh",
+  "main": "docker.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natserract/docker-automated-build.git"
+  },
+  "author": "alfinsurya <benjaminstwo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natserract/docker-automated-build/issues"
+  },
+  "homepage": "https://github.com/natserract/docker-automated-build#readme"
+}
